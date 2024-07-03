@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\Quinto Cuatrimestre\PROGRAMACION III\TP8_GRUPO_NRO_14\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\Quinto Cuatrimestre\PROGRAMACION III\TP8_GRUPO_NRO_14\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\Quinto Cuatrimestre\PROGRAMACION III\TP8_GRUPO_NRO_14\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\Quinto Cuatrimestre\PROGRAMACION III\TP8_GRUPO_NRO_14\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\Quinto Cuatrimestre\PROGRAMACION III\TP8_GRUPO_NRO_14\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\Quinto Cuatrimestre\PROGRAMACION III\TP8_GRUPO_NRO_14\Entidades\obj\Debug\Entidades.pdb
